@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-amqplib/php-amqplib": "^3.7",
+        "paragonie/constant_time_encoding": "^3.0",
+        "paragonie/random_compat": "^9.99"
+    }
+}
